@@ -50,7 +50,3 @@ CreateThread(function()
         Wait(100)
     end
 end)
-
--- RegisterCommand("stoptrain", function()
---     stopTrain = not stopTrain
--- end, false)
